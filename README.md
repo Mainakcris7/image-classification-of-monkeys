@@ -28,6 +28,11 @@ The ten different species are -
 
 
 
+![Logo](https://www.wipo.int/export/sites/www/wipo_magazine/images/en/2018/2018_01_art_7_1_400.jpg)
+
+
+
+
 ## 🚀 About Me
 I'm still a Student, pursuing my B.Tech (3rd year, at 2023). I dreamt to be a Data Scientist or Data Analyst one day.
 
